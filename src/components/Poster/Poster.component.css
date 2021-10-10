@@ -1,0 +1,22 @@
+.poster {
+  display: flex;
+  flex-wrap: wrap;
+  top: 50px;
+}
+
+.poster-outline {
+  margin-left: 20px;
+  margin-bottom: 24px;
+}
+
+.poster-image {
+  width: 100px;
+  height: 150px;
+}
+.poster-name {
+  color: white;
+  padding-top: 2px;
+  width: 100px;
+  opacity: 0.6;
+  font-weight: lighter;
+}
